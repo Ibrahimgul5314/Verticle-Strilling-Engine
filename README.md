@@ -1,4 +1,4 @@
-# Vertical Stirling Engine – PTC Creo Parametric CAD Model
+# Vertical Stirling Engine 
 
 ## Project Overview
 3D CAD model of a Vertical Stirling Engine designed using 
